@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-pets/static/css/main.8816e58e.chunk.css",
+    "main.js": "/my-pets/static/js/main.71a748d7.chunk.js",
+    "main.js.map": "/my-pets/static/js/main.71a748d7.chunk.js.map",
+    "runtime-main.js": "/my-pets/static/js/runtime-main.43adb128.js",
+    "runtime-main.js.map": "/my-pets/static/js/runtime-main.43adb128.js.map",
+    "static/js/2.abfe685a.chunk.js": "/my-pets/static/js/2.abfe685a.chunk.js",
+    "static/js/2.abfe685a.chunk.js.map": "/my-pets/static/js/2.abfe685a.chunk.js.map",
+    "index.html": "/my-pets/index.html",
+    "static/css/main.8816e58e.chunk.css.map": "/my-pets/static/css/main.8816e58e.chunk.css.map",
+    "static/js/2.abfe685a.chunk.js.LICENSE.txt": "/my-pets/static/js/2.abfe685a.chunk.js.LICENSE.txt",
+    "static/media/my-pets.5eaeda4a.png": "/my-pets/static/media/my-pets.5eaeda4a.png",
+    "static/media/undraw_good_doggy.8e6f47f8.svg": "/my-pets/static/media/undraw_good_doggy.8e6f47f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43adb128.js",
+    "static/js/2.abfe685a.chunk.js",
+    "static/css/main.8816e58e.chunk.css",
+    "static/js/main.71a748d7.chunk.js"
+  ]
+}
